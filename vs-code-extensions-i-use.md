@@ -1,5 +1,20 @@
+Add this to package.json at the dependences
+"devDependencies": {
+"babel-cli": "^6.26.0",
+"babel-eslint": "^8.2.3",
+"babel-preset-flow": "^6.23.0",
+"eslint": "^4.19.1",
+"eslint-config-airbnb": "^17.0.0",
+"eslint-config-prettier": "^2.9.0",
+"eslint-plugin-import": "^2.12.0",
+"eslint-plugin-jsx-a11y": "^6.0.3",
+"eslint-plugin-prettier": "^2.6.1",
+"eslint-plugin-react": "^7.9.1",
+"flow-bin": "0.56.0",
+"prettier": "^1.13.5"
+}
 Here are a list of all the extensions I use. This is an ever-changing setup, so if you saw me use something in a video or screenshot, it might be in this list!
-
+  
 
 * https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
 * https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes
