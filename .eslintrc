@@ -31,7 +31,7 @@
     "prefer-const": [
       "error",
       {
-        "destructuring": "all",
+        "destructuring": "all"
       }
     ],
     "arrow-body-style": [
@@ -105,6 +105,7 @@
         "trailingComma": "es5",
         "singleQuote": true,
         "printWidth": 100,
+        "semi": false
       }
     ],
     "jsx-a11y/href-no-hash": "off",
@@ -115,10 +116,14 @@
           "invalidHref"
         ]
       }
+    ],
+    "import/no-extraneous-dependencies": 0,
+    "semi": [
+      "error",
+      "never"
     ]
   },
   "plugins": [
-    // "html",
     "prettier"
   ]
 }
