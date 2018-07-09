@@ -1,4 +1,5 @@
 Add this to package.json at the dependences
+```sh
 "devDependencies": {
 "babel-cli": "^6.26.0",
 "babel-eslint": "^8.2.3",
@@ -13,6 +14,7 @@ Add this to package.json at the dependences
 "flow-bin": "0.56.0",
 "prettier": "^1.13.5"
 }
+```
 Here are a list of all the extensions I use. This is an ever-changing setup, so if you saw me use something in a video or screenshot, it might be in this list!
   
 
